@@ -1,2 +1,2 @@
-# Test
-testing how Github syncs with vs code
+# Project Title
+## Project heading 
