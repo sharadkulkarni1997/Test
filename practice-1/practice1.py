@@ -37,7 +37,7 @@ fahrenheit = (celsius * 9/5) + 32
 print("The temperature in Fahrenheit is: ", fahrenheit)
 #END   
 
-#WAP to input 2 floating point numbers abd print their average
+#WAP to input 2 floating point numbers and print their average
 num1 = 0.0
 num2 = 0.0
 average = 0.0
